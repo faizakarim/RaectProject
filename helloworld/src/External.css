@@ -1,0 +1,19 @@
+.heading{
+ background-color: gold;
+ padding: 20px;
+ font-family: 'Franklin Gothic Medium';
+ font-weight: 100;
+
+}
+.para{
+    font-size: 20px;
+    text-transform: capitalize;
+    color: hotpink;
+}
+.btn{
+    padding: 20px 60px;
+    border-radius: 5px;
+    font-size: 40px;
+    color: lavender;
+    background-color: black;
+}
